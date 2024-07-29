@@ -14,8 +14,6 @@ public class MyService {
     @Autowired
     private CustomerRepository customerRepository;
     @Autowired
-    private AddressRepository addressRepository;
-    @Autowired
     private OrderRepository orderRepository;
 
 
